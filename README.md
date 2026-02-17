@@ -1,7 +1,6 @@
 
 
 # 🧍 Pose Landmark Detection from Static Images using MediaPipe
-Image-based Human pose landmark detection system using MediaPipe and OpenCV.
 
 
 ## 📌 Project Overview
