@@ -1,0 +1,4 @@
+Python 3.10 
+MediaPipe==0.10.9
+OpenCV
+Numpy
