@@ -3,7 +3,7 @@
 # 🧍 Pose Landmark Detection from Static Images using MediaPipe
 
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project implements human pose landmark detection from a static input image using MediaPipe Pose and OpenCV. The system detects 33 anatomical body keypoints and visualizes skeletal connections directly on the image.
 
